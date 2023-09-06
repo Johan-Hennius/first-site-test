@@ -1,0 +1,10 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+header {
+    font-family: Lora, serif;
+    text-align: center;
+}
